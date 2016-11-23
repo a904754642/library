@@ -1,6 +1,6 @@
 apply plugin: 'com.android.library'
-apply plugin: 'con.github.dcendents.android-maven'
-apply plugin: 'con.jfrog.bintray'
+//apply plugin: 'con.github.dcendents.android-maven'
+//apply plugin: 'con.jfrog.bintray'
 
 version="1.0.1"
 
